@@ -16,7 +16,7 @@ Nexora (NEX) is a decentralized ERC-20 token powering a secure, transparent, and
 ---
 
 ## 🔐 Security Commitments
-- 🔒 LP locked on [Team Finance](https://app.team.finance/locks) until **June 25, 2026**
+- 🔒 LP locked on [Team Finance](https://app.team.finance/locks) until **June 25, 2027**
 - 🔒 40M NEX locked for team allocation
 - ✅ Contract fully verified on [Etherscan](https://etherscan.io/token/0x58412AE274F2764B71c66315D97662d47d930d94)
 
@@ -25,7 +25,7 @@ Nexora (NEX) is a decentralized ERC-20 token powering a secure, transparent, and
 ## 🌐 Key Links
 - 🌍 [Website](https://nexoracrypto.com)
 - 🧵 [Twitter/X](https://twitter.com/NexoraCoin26112)
-- 💬 [Telegram](https://t.me/Nexora_Global)
+- 💬 [Telegram] https://t.me/Nexora_OfficialChat
 - 🔍 [Etherscan Token](https://etherscan.io/token/0x58412AE274F2764B71c66315D97662d47d930d94)
 - 📊 [GitHub Project Roadmap](https://github.com/users/Nexora1961/projects/3)
 

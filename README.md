@@ -12,8 +12,7 @@ Rather than optimizing for announcements or short-term narratives, the focus is 
 - reducing execution friction
 - improving reliability under real-world conditions
 - enabling systems that can be pressure-tested and iterated in production
-
-Infrastructure is validated by usage, load, and failure modes — not by claims.  
+Infrastructure is validated by real usage, load, and failure modes — not by claims. 
 This philosophy guides Nexora’s development, security posture, and roadmap.
 
 ---
